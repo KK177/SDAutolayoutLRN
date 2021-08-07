@@ -1,0 +1,6 @@
+framework module Pods_SDAutolayoutLRN {
+  umbrella header "Pods-SDAutolayoutLRN-umbrella.h"
+
+  export *
+  module * { export * }
+}
